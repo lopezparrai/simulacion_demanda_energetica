@@ -44,5 +44,5 @@ Región: Centro | Período: marzo 2025 | Frecuencia: 15 minutos
 
 ## Autor
 
-**Ignacio A. López Parra**  
+**Ignacio Lopez Parra**  
 Licenciatura en Análisis y Gestión de Datos — Universidad Nacional de San Luis
