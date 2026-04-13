@@ -29,6 +29,14 @@ Se analiza la demanda eléctrica de la Región Centro durante marzo de 2025, aju
 
 ---
 
+## Resultados principales
+
+- La distribución **LogNormal** superó a la Normal en ambas pruebas de bondad de ajuste para la demanda diurna.
+- Las simulaciones revelaron diferencias significativas entre días hábiles y no hábiles.
+- El escenario de +2 °C proyecta un incremento estimado en la demanda media, con mayor varianza en los percentiles superiores.
+
+---
+
 ## Tecnologías
 
 Python · Jupyter Notebook · pandas · NumPy · SciPy · scikit-learn · Matplotlib · requests
